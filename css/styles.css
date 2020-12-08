@@ -102,6 +102,10 @@ img {
     text-decoration: none;
     margin-right: 50px;
 }
+.email-icon, .tel-icon {
+    display: flex;
+    align-items: center;
+}
 .tel {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -174,6 +178,9 @@ img {
     background-color: #F5F4FA;
     border-radius: 4px;
     border-color: transparent;
+}
+.features-icons {
+    align-items: center;   
 }
 .section{
     font-family: 'Roboto', sans-serif;
